@@ -56,3 +56,6 @@ Download all the files (index.html, style.css, assets folder)
 2. Make sure every element of the file is located in one folder.
 3. Open index.html in any modern web browser.
 No additional installation or dependencies are required.
+
+
+Creator: Silvester Austin Halim
